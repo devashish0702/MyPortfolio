@@ -4,6 +4,7 @@
 }
 body{
   scroll-behavior: smooth;
+  background-color: #EBF4DD;
 }
 
 header {
@@ -29,7 +30,7 @@ header {
   list-style: none;
   display: flex;
   gap: 3rem;
-  background-color: white;
+  background-color: #EBF4DD;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   padding: 10px 25px;
   border-radius: 25px;
@@ -303,7 +304,7 @@ hr {
 }
 
 .project-card {
-  background: #fff;
+  background: #EBF4DD;
   padding: 20px;
   border-radius: 16px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
@@ -409,7 +410,7 @@ hr {
 }
 
 .service-card {
-  background: #fff;
+  background: #EBF4DD;
   padding: 25px;
   border-radius: 16px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
